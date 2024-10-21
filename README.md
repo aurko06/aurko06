@@ -3,7 +3,7 @@
 <h3 align="center">Passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/785254538960216277/7EDB168C84A378FEAE61F54D7415ABBC8C0DDFD1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elitefardin&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurko06&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/elitefardin" target="blank"><img src="https://img.shields.io/twitter/follow/elitefardin?logo=twitter&style=for-the-badge" alt="elitefardin" /></a> </p>
 
