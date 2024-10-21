@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurko06&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elitefardin" target="blank"><img src="https://img.shields.io/twitter/follow/elitefardin?logo=twitter&style=for-the-badge" alt="elitefardin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aurko06" target="blank"><img src="https://img.shields.io/twitter/follow/aurko06?logo=twitter&style=for-the-badge" alt="aurko06" /></a> </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 - 🌱 I’m currently learning **Web-development**
@@ -36,11 +36,11 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
-</p>Elitefardin's GitHub activity graph:
+</p>aurko's GitHub activity graph:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elitefardin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elitefardin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elitefardin&show_icons=true&locale=en&theme=tokyonight" alt="elitefardin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurko06&show_icons=true&locale=en&theme=tokyonight" alt="aurko06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elitefardin&&theme=tokyonight" alt="elitefardin" /></p>
