@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Vexa Web App**
 - 🌱 I’m currently learning **Web-development**
 - 💬 Ask me about **Android**
-- 📫 How to reach me **mahibulalomaurko@gmail.com**
+- 📫 How to reach me **mahibulalamaurko@gmail.com**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
