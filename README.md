@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://elitefardin.io)
-<h1 align="center">Hi 👋, I'm Mahibul Alom Aurko</h1>
+<h1 align="center">Hi 👋, I'm Mahibul Alam Aurko</h1>
 <h3 align="center">Passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/785254538960216277/7EDB168C84A378FEAE61F54D7415ABBC8C0DDFD1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
